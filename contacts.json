@@ -68,7 +68,7 @@
       {
         "value": "https://linkedin.com/in/alexchen",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -192,7 +192,7 @@
       {
         "value": "https://linkedin.com/in/annarodriguez",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -428,7 +428,7 @@
       {
         "value": "https://linkedin.com/in/bradfitz",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -652,7 +652,7 @@
       {
         "value": "https://linkedin.com/in/dfriedberg",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -874,7 +874,7 @@
       {
         "value": "https://linkedin.com/in/drummondre",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -1095,7 +1095,7 @@
       {
         "value": "https://linkedin.com/in/fredericlaloux",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -1531,7 +1531,7 @@
       {
         "value": "https://linkedin.com/in/kevinkelly",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -1746,7 +1746,7 @@
       {
         "value": "https://linkedin.com/in/margeighnovosad",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -1977,7 +1977,7 @@
       {
         "value": "https://linkedin.com/in/rubenharris",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -2103,7 +2103,7 @@
       {
         "value": "https://linkedin.com/in/samaltman",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -2630,7 +2630,7 @@
       {
         "value": "https://linkedin.com/in/emilywatson",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
@@ -2726,7 +2726,7 @@
       {
         "value": "https://linkedin.com/in/davidpark",
         "type2": {
-          "@id": "linkedIn"
+          "@id": "linkedin"
         },
         "source": "linkedin"
       }
